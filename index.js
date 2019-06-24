@@ -130,7 +130,7 @@ class App extends React.Component {
 
         <pre>
           {
-`<Accordion>
+            `<Accordion>
     <div data-header="Title">
         Content
     </div>
@@ -138,7 +138,7 @@ class App extends React.Component {
         Content
     </div>
 </Accordion>`
-            }
+          }
         </pre>
       </div>
     );
